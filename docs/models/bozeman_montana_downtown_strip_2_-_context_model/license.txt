@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bozeman Montana Downtown Strip 2 - Context Model
+* source:	https://sketchfab.com/3d-models/bozeman-montana-downtown-strip-2-context-model-3dd59432a7ad489faca29952f208a4f9
+* author:	Michael Neil Gow (https://sketchfab.com/MichaelNeilGow)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bozeman Montana Downtown Strip 2 - Context Model" (https://sketchfab.com/3d-models/bozeman-montana-downtown-strip-2-context-model-3dd59432a7ad489faca29952f208a4f9) by Michael Neil Gow (https://sketchfab.com/MichaelNeilGow) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
